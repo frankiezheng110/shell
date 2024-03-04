@@ -4,7 +4,7 @@
 
 
 ```
-wget -N --no-check-certificate https://github.com/taotao1058/shell/raw/main/acme.sh && bash acme.sh
+wget -N --no-check-certificate https://github.com/frankiezheng110/shell/raw/main/acme.sh && bash acme.sh
 ```
 
 
@@ -13,7 +13,7 @@ wget -N --no-check-certificate https://github.com/taotao1058/shell/raw/main/acme
 适用于Debian、Ubuntu、Kali Linux 系统。（需先把域名解析到公网IP并开放80和443端口用于自带配置TLS证书）
 
 ```
-wget -N --no-check-certificate https://github.com/taotao1058/shell/raw/main/wordpress.sh && bash wordpress.sh
+wget -N --no-check-certificate https://github.com/frankiezheng110/shell/raw/main/wordpress.sh && bash wordpress.sh
 ```
 
 
@@ -33,6 +33,6 @@ wget -N --no-check-certificate https://github.com/frankiezheng110/shell/raw/main
 
 3：在命令行输入`python -m pip install python-whois`安装whois模块
 
-4：安装完成后[复制这里的代码](https://github.com/taotao1058/shell/blob/main/com.py)，将其保存在桌面的`txt`文件中，并修改文件后缀为`py`，不会修改文件后缀请网上搜索。
+4：安装完成后[复制这里的代码](https://github.com/frankiezheng110/shell/blob/main/com.py)，将其保存在桌面的`txt`文件中，并修改文件后缀为`py`，不会修改文件后缀请网上搜索。
 
 5：然后双击这个`Python`脚本，按照提示输入查询位数和后缀，查询速度根据你的网速快慢决定，查询完成后结果将输出到桌面的`com.txt`文件中。
