@@ -22,7 +22,7 @@ wget -N --no-check-certificate https://github.com/taotao1058/shell/raw/main/word
 适用于Debian、Ubuntu、Kali Linux 系统。xray内核 vmess入站，多sk5出站
 
 ```
-wget -N --no-check-certificate https://github.com/taotao1058/shell/raw/main/vmess.sh && bash vmess.sh
+wget -N --no-check-certificate https://github.com/frankiezheng110/shell/raw/main/vmess.sh && bash vmess.sh
 ```
 
 ### 域名注册查询Python脚本
